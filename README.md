@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ankita Dash! 👋
 
-<!--
-**Ankita759/Ankita759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Computer Science and Engineering Student at Lovely Professional University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- Currently learning Python, HTML, CSS and JavaScript.
+- Building my technical and problem-solving skills.
+- Interested in collaborative projects and continuous learning.
+
+## 💻 Technical Skills
+
+- Python (Basic)
+- HTML(Basic)
+- CSS(Basic)
+- JavaScript(Basic)
+- Git
+- GitHub
+
+## 🚀 Academic Projects
+
+### Campus-Find – Lost and Found Web Application
+
+A functional campus-based Lost and Found website developed using HTML, CSS and JavaScript.
+
+[View Project](https://github.com/Ankita759/campus-find)
+
+My contributions:
+- Project planning
+- Documentation
+- Presentation
+- Testing
+
+## 🎯 Career Goal
+
+To develop strong cybersecurity skills and pursue a career in cybersecurity, particularly in Digital Forensics and Information Security.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ankita759
+
